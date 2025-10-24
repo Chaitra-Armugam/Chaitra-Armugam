@@ -18,12 +18,12 @@
 ```python
 class Developer:
     def __init__(self):
-        http://self.name = "${YOUR_NAME}"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["English", "Hindi"]
-        self.location = "${YOUR_LOCATION}"
+        http://self.name = "${Chaitra}"
+        self.role = "Data Analyst"
+        self.language_spoken = ["English", "Hindi" , "Kannada"]
+        self.location = "${Mysuru}"
         self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["Web Dev", "Open Source", "Automation"]
+        self.interests = ["POWER BI", "SQL", "Python"]
 
     def say_hi(self):
         print("Thanks for visiting my profile!")
@@ -35,11 +35,11 @@ class Developer:
 
 <div align="center">
 
-|   **Languages**   |    **Frameworks**   |   **Databases**   |   **Tools / IDEs**  |
-| :---------------: | :-----------------: | :---------------: | :-----------------: |
-|     🐍 Python     | 🌐 Django / FastAPI | 💾 MySQL / SQLite |      ⚙️ VSCode      |
-| 🕸️ HTML, CSS, JS |   ⚛️ React (Basic)  |   🗄️ PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |     🔍 REST APIs    |    ☁️ Firebase    | 🧩 Jupyter Notebook |
+|   **Languages**   |   **Databases**   |   **Tools / IDEs**  |
+| :---------------: | :---------------: | :-----------------: |
+|     🐍 Python     |   | 💾 MySQL / SQLite |                    |
+| 🕸️ SQL            |     |   🗄️ PostgreSQL  |    🧭 Git, GitHub   |
+|  📊 NumPy, Pandas |                         | 🧩 Colab Notebook |
 
 </div>
 
