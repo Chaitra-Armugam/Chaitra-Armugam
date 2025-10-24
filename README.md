@@ -1,168 +1,94 @@
-## ✅ **Full `README.md` Code**
+<!-- GitHub Profile README — Professional Version for Chaitra Armugam -->
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; line-height:1.6; color:#0b1220; max-width:900px; margin:20px auto; padding:28px; border-radius:16px; box-shadow:0 8px 20px rgba(11,18,32,0.08); background:#ffffff;">
 
-````markdown
-<!-- ========================== START OF README ========================== -->
+  <!-- Header / Hero -->
+  <div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
+    <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME?s=200" alt="Chaitra Armugam Avatar" width="120" height="120" style="border-radius:16px; object-fit:cover; border:2px solid #e2e8f0;">
+    <div>
+      <h1 style="margin:0; font-size:30px;">Hi, I'm <strong>Chaitra Armugam</strong> 👋</h1>
+      <p style="margin:8px 0 0 0; color:#475569; max-width:650px; font-size:15px;">
+        Aspiring <strong>Data Analyst</strong> passionate about uncovering insights from data. Skilled in Python, SQL, and Power BI — I love transforming raw data into meaningful visual stories and actionable decisions.
+      </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${YOUR_NAME};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
-</h1>
+      <!-- Quick Action Buttons -->
+      <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" style="text-decoration:none;">
+          <button style="padding:8px 14px; border-radius:10px; border:1px solid #e2e8f0; background:#f8fafc; cursor:pointer;">Explore Projects</button>
+        </a>
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none;">
+          <button style="padding:8px 14px; border-radius:10px; border:1px solid #0ea5a0; background:#ecfeff; cursor:pointer;">Connect on LinkedIn</button>
+        </a>
+        <a href="mailto:chaitra1303@gmail.com" style="text-decoration:none;">
+          <button style="padding:8px 14px; border-radius:10px; border:1px solid #f97316; background:#fff7ed; cursor:pointer;">Email Me</button>
+        </a>
+      </div>
+    </div>
+  </div>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <hr style="border:none; border-top:1px solid #e2e8f0; margin:24px 0;">
 
----
+  <!-- Skills Section -->
+  <section>
+    <h2 style="margin:0 0 10px 0;">🛠️ Skills & Tools</h2>
+    <p style="margin:0 0 14px 0; color:#475569;">
+      <strong>Data Analysis:</strong> Python (Pandas, NumPy), SQL, Excel <br>
+      <strong>Visualization:</strong> Power BI, Matplotlib, Seaborn
+    </p>
 
-## 🧭 About Me
+    <div style="display:flex; gap:8px; flex-wrap:wrap;">
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Python</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">SQL</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Power BI</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Excel</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Pandas</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">NumPy</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Matplotlib</span>
+      <span style="padding:6px 10px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Seaborn</span>
+    </div>
+  </section>
 
-```python
-class Developer:
-    def __init__(self):
-        http://self.name = "${Chaitra}"
-        self.role = "Data Analyst"
-        self.language_spoken = ["English", "Hindi" , "Kannada"]
-        self.location = "${Mysuru}"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["POWER BI", "SQL", "Python"]
+  <hr style="border:none; border-top:1px solid #e2e8f0; margin:24px 0;">
 
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-````
+  <!-- Education -->
+  <section>
+    <h2 style="margin:0 0 8px 0;">🎓 Education</h2>
+    <p style="margin:0; color:#475569; font-size:15px;">
+      <strong>B.E. in Computer Science</strong> — Vidya Vikas Institute of Engineering and Technology, Mysuru <br>
+      <small>Expected Graduation: 2025</small>
+    </p>
+  </section>
 
----
+  <hr style="border:none; border-top:1px solid #e2e8f0; margin:24px 0;">
 
-## 🧠 Skills Dashboard
+  <!-- GitHub Stats -->
+  <section>
+    <h2 style="margin:0 0 8px 0;">📊 GitHub Stats</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" style="border-radius:12px; max-width:420px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub Streak" style="border-radius:12px; max-width:420px;">
+    </div>
+  </section>
 
-<div align="center">
+  <hr style="border:none; border-top:1px solid #e2e8f0; margin:24px 0;">
 
-|   **Languages**   |   **Databases**   |   **Tools / IDEs**  |
-| :---------------: | :---------------: | :-----------------: |
-|     🐍 Python     |   | 💾 MySQL / SQLite |                    |
-| 🕸️ SQL            |     |   🗄️ PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |                         | 🧩 Colab Notebook |
+  <!-- Contact Section -->
+  <section>
+    <h2 style="margin:0 0 8px 0;">✉️ Contact & Socials</h2>
+    <div style="display:flex; gap:14px; flex-wrap:wrap; font-size:15px;">
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none; color:#0ea5a0;">LinkedIn</a>
+      <a href="mailto:chaitra1303@gmail.com" style="text-decoration:none; color:#f97316;">Email</a>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration:none; color:#1e3a8a;">GitHub</a>
+    </div>
+    <p style="margin-top:10px; color:#64748b; font-size:13px;">
+      Feel free to reach out for opportunities, collaborations, or data projects!
+    </p>
+  </section>
+
+  <hr style="border:none; border-top:1px solid #e2e8f0; margin:24px 0;">
+
+  <!-- Footer -->
+  <p style="font-size:13px; color:#94a3b8; margin:0; text-align:center;">
+    Built with ❤️ by <strong>Chaitra Armugam</strong> • Updated: October 2025
+  </p>
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=${YOUR_USERNAME}&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
----
-
-## 📈 GitHub Stats Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=${YOUR_USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=${YOUR_USERNAME}&theme=radical&hide_border=true" height="160" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${YOUR_USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=${YOUR_USERNAME}&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
-
-</div>
-
----
-
-## 🎨 Projects Dashboard
-
-### 🚀 Featured Project — **AI Legal Assistant**
-
-> A Natural Language Processing–powered project that simplifies legal knowledge using TextRank, TF-IDF, and Cosine Similarity.
-
-**Tech Stack:**
-`Python` • `NLTK` • `Gradio` • `PdfPlumber` • `TF-IDF`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${YOUR_USERNAME}&repo=law-edify&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ⚙️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,mysql,sqlite,git,github,vscode,linux&perline=8" />
-</p>
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/${YOUR_LINKEDIN}" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:${YOUR_EMAIL}" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/${YOUR_USERNAME}" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://${YOUR_PORTFOLIO}" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a>
-</p>
-
----
-
-## 🎯 Fun Dashboard (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
----
-
-## ⚡ Activity Timeline
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Created new project `${PROJECT_NAME}`
-2. ✨ Contributed to open source `${OPEN_SOURCE_PROJECT}`
-3. 🛠️ Fixed bugs in `${REPO_NAME}`
-4. 🚀 Deployed new feature on `${DEPLOYMENT}`
-
-<!--END_SECTION:activity-->
-
----
-
-## 🌈 Visitor Dashboard
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile — Happy Coding!</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
-</p>
-
-<!-- ========================== END OF README ========================== -->
-
-```
-
----
-
-### 🧩 How to Use It
-
-1. Go to your GitHub and **create a new repo named exactly like your username** (example: `http://github.com/sakshirudraiah/sakshirudraiah`).  
-2. Inside that repo, click **Add File → Create New File → name it `README.md`**.  
-3. Paste the **entire code above** into that file.  
-4. Replace all `${PLACEHOLDERS}` with your actual data (username, email, LinkedIn, etc.).  
-5. Commit — your **animated professional GitHub profile** is live 🎉  
-
----
-
-Would you like me to generate this **auto-filled for you** with your name **Sakshi**, your actual **skills, projects (LAW EDIFY, 3D HOUSE, Blood Bank, etc.)**, and real dashboard links — so it’s ready to upload instantly?
-```
