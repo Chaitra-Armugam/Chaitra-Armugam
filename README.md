@@ -26,29 +26,29 @@
 
   <hr style="border:none; border-top:1px solid #e2e8f0; margin:32px 0;">
 
-  <!-- Skills -->
-  <section>
-    <h2 style="margin-bottom:12px; font-size:22px; color:#0f172a;">🛠️ Technical Skills</h2>
-    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px;">
+<!-- Skills -->
+<section>
+  <h2 style="margin-bottom:12px; font-size:22px; color:#0f172a;">🛠️ Technical Skills</h2>
+  <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-      <div style="padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
-        <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Data Analysis</h3>
-        <p style="margin:6px 0; color:#475569;">Python (Pandas, NumPy), Excel, SQL</p>
-      </div>
-
-      <div style="padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
-        <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Data Visualization</h3>
-        <p style="margin:6px 0; color:#475569;">Power BI, Matplotlib, Seaborn</p>
-      </div>
-
-      <div style="padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
-        <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Soft Skills</h3>
-        <p style="margin:6px 0; color:#475569;">Problem Solving, Data Interpretation, Communication</p>
-      </div>
+    <div style="flex:1 1 250px; padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
+      <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Data Analysis</h3>
+      <p style="margin:6px 0; color:#475569;">Python (Pandas, NumPy), SQL, Excel</p>
     </div>
-  </section>
 
-  <hr style="border:none; border-top:1px solid #e2e8f0; margin:32px 0;">
+    <div style="flex:1 1 250px; padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
+      <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Data Visualization</h3>
+      <p style="margin:6px 0; color:#475569;">Matplotlib, Seaborn</p>
+    </div>
+
+    <div style="flex:1 1 250px; padding:16px; border-radius:12px; background:#f8fafc; border:1px solid #e2e8f0;">
+      <h3 style="margin-top:0; color:#2563eb; font-size:16px;">Soft Skills</h3>
+      <p style="margin:6px 0; color:#475569;">Problem Solving, Data Interpretation, Communication</p>
+    </div>
+
+  </div>
+</section>
+
 
   <!-- Education -->
   <section>
